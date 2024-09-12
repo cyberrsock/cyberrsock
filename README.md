@@ -5,20 +5,17 @@
 
 ### :man_technologist: Кратко о себе:
 
-- :mortar_board: Студент МГТУ им. Баумана, кафедра "Программная инженерия", 3 курс
+- :mortar_board: Студент МГТУ им. Баумана, кафедра "Программная инженерия", 4 курс
 
-- :bulb: Обучаюсь в Образовательном центре VK, Программа по машинному обучению, 2 семестр
+- :bulb: Успешно прошёл в Образовательном центре VK Программу по машинному обучению
 
 ---
 
 ### :mailbox_with_mail: Связь со мной:
 
   <div>
-    <a href="https://t.me/airpats" target="_blank">
+    <a href="https://t.me/pats_ilya" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
-    </a>
-    <a href="https://vk.com/airpats" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
     </a>
   </div>
 
